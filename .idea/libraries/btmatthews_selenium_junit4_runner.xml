@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="btmatthews.selenium.junit4.runner" type="repository">
+    <properties include-transitive-deps="false" maven-id="com.btmatthews.selenium.junit4:selenium-junit4-runner:1.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/selenium-junit4-runner-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/selenium-junit4-runner-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/selenium-junit4-runner-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
